@@ -2,7 +2,7 @@
 
 **Course:** DATA 4380: Data Problems  
 **Institution:** University of Texas at Arlington  
-**Student Author:** Zuhair Hussain  
+**Student Author:** Zuhair Syd  
 **Instructor:** Dr. Masoud Rostami  
 **Date:** Fall 2026  
 
@@ -105,5 +105,5 @@ Select **Kernel $\rightarrow$ Restart & Run All** to reproduce all preprocessing
 ---
 
 ## 6. Author & Disclosure
-* **Author:** Zuhair Hussain (DATA 4380, Fall 2026)
+* **Author:** Zuhair Syd (DATA 4380, Fall 2026)
 * **Technical Assistance:** Google Gemini (AI pair-programming for visualization styling and script automation; all modeling decisions, data audits, and clinical interpretations directed and verified by the author).
